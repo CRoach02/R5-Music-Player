@@ -84,8 +84,5 @@ def main():
         print("No audio files found")
 
 
-# yt-dlp usage:
-# yt-dlp -x --audio-format mp3 --js-runtimes node --sleep-interval 2 --max-sleep-interval 5 "youtube link"
-
 if __name__ == "__main__":
     main()
