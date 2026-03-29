@@ -1,0 +1,7 @@
+To do list for the project:
+
+Backend:
+- Create VLC wrapper for media player
+- Create audio output controls
+- Playlists stored in SQLite db
+    - Playlist table content: Title, Duration
