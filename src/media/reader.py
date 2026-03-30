@@ -1,6 +1,6 @@
 from pathlib import Path
 
-def get_audio_files(path):
+def get_audio_files(path) -> list:
         """
         Return a list of audio files from a file or directory using pathlib.
         """
